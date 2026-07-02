@@ -5,5 +5,5 @@ pdf2image==1.17.0
 spacy>=3.7.4
 llama-index-core>=0.10.0
 llama-index-embeddings-huggingface>=0.1.0
-llama-index-llms-gemini>=0.1.0
+llama-index-llms-google-genai>=0.1.0
 python-dotenv==1.0.1
